@@ -13,6 +13,12 @@ Projeyi cloneladıktan sonra Visual Studio Code programında çalıştırınız.
 
 Linux için:
 ```bash
-`cd kodluyoruzilkrepo
+cd kodluyoruzilkrepo
 code .
 ```
+
+##CONTRIBUTING
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+##LICENSE
+[MIT](https://choosealicense.com/licenses/mit/)

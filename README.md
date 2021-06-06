@@ -5,7 +5,7 @@ Bu repo [kodluyoruz](https://github.com/Kodluyoruz) Front-End eğitiminde oluşt
 ## INSTALLATION
 Öncelikle projeyi clonelayın.
 ```bash
-`https://github.com/tugbacann/kodluyoruzilkrepo.git`
+git clone https://github.com/tugbacann/kodluyoruzilkrepo.git
 ```
 
 ## USAGE

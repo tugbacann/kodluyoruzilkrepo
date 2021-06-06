@@ -7,3 +7,12 @@ Bu repo [kodluyoruz](https://github.com/Kodluyoruz) Front-End eğitiminde oluşt
 ```bash
 `https://github.com/tugbacann/kodluyoruzilkrepo.git`
 ```
+
+## USAGE
+Projeyi cloneladıktan sonra Visual Studio Code programında çalıştırınız.
+
+Linux için:
+```bash
+`cd kodluyoruzilkrepo
+code .
+```
